@@ -26,6 +26,12 @@ Analyze flight performance (arrivals, delays and cancellations), Evaluate passen
 ## Dashboard 
 <img width="1170" height="788" alt="Airlines Dashboard" src="https://github.com/user-attachments/assets/b78bf696-8d17-44ac-9104-eee5ae0386cf" />
 
+## Business Impact 
+Improved decision-making for route optimization and scheduling, Increased revenue by identifying high-performing routes and pricing strategies, Cost savings through fuel efficiency and operational improvements.
+
+## Final Conclusion
+This dashboard empowers High Cloud Airlines with actionable insights to drive profitability, efficiency, and customer satisfaction. Stakeholders can interact with filters (eg: time period, route, aircraft type) to explore data dynamically.
+
 
 
 
