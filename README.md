@@ -12,4 +12,5 @@ Analyze flight performance (arrivals, delays and cancellations), Evaluate passen
 - What is the year-over-year trajectory for both total transported passengers and load factor percentages (from 2008 to 2012)?
 - What is the proportional breakdown of load factors when comparing weekday flights to weekend flights?
 - How are total flight departures distributed across various distance intervals (ranging from less than 500 miles up to 6000+ miles)?
-- 
+
+
