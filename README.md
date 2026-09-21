@@ -2,6 +2,14 @@
 This Power BI dashboard provides an in-depth analysis of High Cloud Airlines operational performance, customer trends, and financial metrics.
 ## Project Objective 
 Analyze flight performance (arrivals, delays and cancellations), Evaluate passenger load factors and seat occupancy rates, Assess revenue trends across different routes and ticket classes, Optimize fuel consumption & cost efficiency.
-# Dataset
+## Dataset
 - <a href="https://github.com/Blinking11/largefiles/blob/main/MainData_Final.xlsx">Dataset</a>
 
+## Question KPIs
+- What is the total aggregate volume of transported passengers, available seats, and overall flight departures?
+- Which airlines rank in the top 10 for total passenger volume, and how does the load factor count compare across these top carriers?
+- How does passenger traffic vary across different months and quarters within a given time period?
+- What is the year-over-year trajectory for both total transported passengers and load factor percentages (from 2008 to 2012)?
+- What is the proportional breakdown of load factors when comparing weekday flights to weekend flights?
+- How are total flight departures distributed across various distance intervals (ranging from less than 500 miles up to 6000+ miles)?
+- 
